@@ -1,6 +1,9 @@
 # aimedia
 
-A new Flutter project.
+Kindly add key.env
+
+API_KEY="Hugger API Key"
+CHATGPT_API_KEY="Open API key"
 
 ## Getting Started
 
