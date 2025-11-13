@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "437266548337",
+    "project_id": "aimedia-20eed",
+    "storage_bucket": "aimedia-20eed.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437266548337:android:4b938f3560dd11609dbdd0",
+        "android_client_info": {
+          "package_name": "com.pravin.aimedia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN_aFwmNrq45b4ZoZPV1AEUVBM52NHBiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
